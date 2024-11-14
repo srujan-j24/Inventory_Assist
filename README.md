@@ -1,2 +1,2 @@
 # Inventory_Assist
-A simple inventory mana
+A simple inventory management platform
